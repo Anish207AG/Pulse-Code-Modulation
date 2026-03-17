@@ -114,7 +114,7 @@ plt.show()
 ```
 # Output Waveform
 ## Pulse-code-Modulation
-<img width="989" height="789" alt="image" src="https://github.com/user-attachments/assets/b60a5bd2-f257-4e3c-9c1f-188c9d677eae" />
+<img width="976" height="887" alt="image" src="https://github.com/user-attachments/assets/ccafbe97-2967-456b-b768-10fc43fb1b56" />
 
 ## Delta-Modulation
 <img width="989" height="789" alt="image" src="https://github.com/user-attachments/assets/247f44a9-edfb-4190-a44c-89769c263441" />
